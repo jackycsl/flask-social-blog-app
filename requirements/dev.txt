@@ -1,6 +1,6 @@
 -r common.txt
 ForgeryPy==0.1
 Pygments==2.2.0
-httpie==0.7.2
+httpie==1.0.3
 coverage==3.7.1
 requests==2.1.0
