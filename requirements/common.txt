@@ -19,7 +19,7 @@ python-editor==1.0.3
 six==1.11.0
 SQLAlchemy==1.1.15
 visitor==0.1.3
-Werkzeug==0.13
+Werkzeug==0.15.3
 WTForms==2.1
 bleach==3.3.0
 Flask-Login==0.4.1
